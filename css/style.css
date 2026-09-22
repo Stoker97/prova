@@ -6,6 +6,6 @@
     list-style: none;
 }
 
-span {
-    color: red;
+td, th {
+    text-align: center;
 }
